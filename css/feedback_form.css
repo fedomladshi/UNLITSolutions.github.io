@@ -1,0 +1,67 @@
+.feedback {
+    margin-top: 294px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.intro__title {
+    padding-left: 7px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20.76px;
+    text-transform: uppercase;
+    letter-spacing: 0.18px;
+}
+
+.intro__text {
+    padding-left: 7px;
+    margin-top: 18px;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'SemiBold';
+    line-height: 60px;
+    letter-spacing: 0.48px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type="text"]::placeholder, textarea::placeholder {
+    color: #314584;;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    font-weight: 600;
+}
+
+.contact-form__input {
+    height: 61px;
+    padding: 0 0 10px 20px;
+    border: 0;
+    width: 48.6%;
+    font-size: 18px;
+    font-family: 'SemiBold';
+    background-color: #f4fafe;
+}
+
+.contact-form__text {
+    margin-top: 35px;
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 100%;
+    height: 121px;
+    border: 0;
+    font-size: 18px;
+    font-family: 'SemiBold';
+    background-color: #f4fafe;
+}
+
+.contact-form__button {
+    margin: 64px auto;
+    width: 200px;
+    font-family: 'SemiBold';
+}

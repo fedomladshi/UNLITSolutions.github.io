@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.c-49 {
+    color: rgb(49, 69, 132);
+}
+
+.red {
+    color: #ff3946;
+}
+
+
+
+
